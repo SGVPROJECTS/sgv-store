@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "ramayan",
+      "name": "Ramayan",
+      "category": "Ramayan",
+      "version": 1,
+      "size": 11626882,
+      "sha256": "4dac597ea6049854a10b4f65f4e9a3bf8cb435c8ea13dd073e0a38e791b1f413",
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/cartoon/SGV-ANIM-Characters-20261121-2350.zip"
+    }
+  ]
+}
