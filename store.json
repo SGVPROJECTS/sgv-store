@@ -9,6 +9,117 @@
         { "id": "ramayan", "name": "Ramayan" },
         { "id": "others", "name": "Others" }
       ]
+    },
+    {
+      "id": "backgrounds",
+      "name": "Backgrounds",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "objects",
+      "name": "Objects",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "props",
+      "name": "Props",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "effects",
+      "name": "Effects",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "audios",
+      "name": "Audios",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "texts",
+      "name": "Texts",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "shapes",
+      "name": "Shapes",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "animations",
+      "name": "Animations",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "ads",
+      "name": "Ads",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "banners",
+      "name": "Banners",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "notices",
+      "name": "Notices",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "posts",
+      "name": "Posts",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "updates",
+      "name": "Updates",
+      "groups": [
+        { "id": "trending", "name": "Trending" },
+        { "id": "others", "name": "Others" }
+      ]
+    },
+    {
+      "id": "others",
+      "name": "Others",
+      "groups": [
+        { "id": "others", "name": "Others" }
+      ]
     }
   ],
   "packs": [
