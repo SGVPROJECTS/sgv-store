@@ -5,120 +5,214 @@
       "id": "characters",
       "name": "Characters",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "ramayan", "name": "Ramayan" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "ramayan",
+          "name": "Ramayan"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        },
+        {
+          "id": "ramayan-v2",
+          "name": "Ramayan V2"
+        }
       ]
     },
     {
       "id": "backgrounds",
       "name": "Backgrounds",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "objects",
       "name": "Objects",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "props",
       "name": "Props",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "effects",
       "name": "Effects",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "audios",
       "name": "Audios",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "texts",
       "name": "Texts",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "shapes",
       "name": "Shapes",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "animations",
       "name": "Animations",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "ads",
       "name": "Ads",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "banners",
       "name": "Banners",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "notices",
       "name": "Notices",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "posts",
       "name": "Posts",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "updates",
       "name": "Updates",
       "groups": [
-        { "id": "trending", "name": "Trending" },
-        { "id": "others", "name": "Others" }
+        {
+          "id": "trending",
+          "name": "Trending"
+        },
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     },
     {
       "id": "others",
       "name": "Others",
       "groups": [
-        { "id": "others", "name": "Others" }
+        {
+          "id": "others",
+          "name": "Others"
+        }
       ]
     }
   ],
@@ -134,6 +228,19 @@
       "size": 11626882,
       "sha256": "4dac597ea6049854a10b4f65f4e9a3bf8cb435c8ea13dd073e0a38e791b1f413",
       "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/cartoon/SGV-ANIM-Characters-20261121-2350.zip"
+    },
+    {
+      "id": "pmwu5kfpl1cg",
+      "name": "Ramayan All Characters",
+      "type": "characters",
+      "group": "ramayan-v2",
+      "desc": "All the main characters of the Ramayana are here, fully rigged in 2D with a 3/4 perspective, including completed face rigging.",
+      "category": "Ramayan",
+      "version": 1,
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/mythology/Ramayan.zip",
+      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/mythology/Ramayan.png",
+      "sha256": "4caf3225760e1c613747f852aa2515878453d8ebd3ef0b71b1ee34ce788ad333",
+      "size": 15542494
     }
   ]
 }
