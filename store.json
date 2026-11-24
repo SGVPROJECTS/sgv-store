@@ -34,6 +34,10 @@
         {
           "id": "others",
           "name": "Others"
+        },
+        {
+          "id": "grounds-v1",
+          "name": "Grounds V1"
         }
       ]
     },
@@ -229,6 +233,18 @@
       "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/mythology/Ramayan.png",
       "sha256": "4caf3225760e1c613747f852aa2515878453d8ebd3ef0b71b1ee34ce788ad333",
       "size": 15542494
+    },
+    {
+      "id": "pmwuhiz3h1at",
+      "name": "Ground Pack V1",
+      "type": "backgrounds",
+      "group": "grounds-v1",
+      "desc": "Different types of ground with transparent background",
+      "version": 1,
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/2dGrounds/Ground_Pack_V1.zip",
+      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/2dGrounds/Ground_Pack_V1.png",
+      "sha256": "0de60c4daca8d08fbc588c06e5bf390167ae3416534fe1571e0bd433d1c74b1d",
+      "size": 21487660
     }
   ]
 }
