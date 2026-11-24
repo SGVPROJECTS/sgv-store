@@ -52,6 +52,10 @@
         {
           "id": "others",
           "name": "Others"
+        },
+        {
+          "id": "bush-pack-1",
+          "name": "Bush Pack 1"
         }
       ]
     },
@@ -245,6 +249,18 @@
       "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/2dGrounds/Ground_Pack_V1.png",
       "sha256": "0de60c4daca8d08fbc588c06e5bf390167ae3416534fe1571e0bd433d1c74b1d",
       "size": 21487660
+    },
+    {
+      "id": "pmwuikn5e1ed",
+      "name": "Bush Pack 1",
+      "type": "objects",
+      "group": "bush-pack-1",
+      "desc": "Different types of Grasses and bushes",
+      "version": 1,
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/2dGraphics/Bush_Pack_1.zip",
+      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/2dGraphics/Bush_Pack_1.png",
+      "sha256": "72c9f3e004ac69a8014a10d616ecb09f9ee1159b7d15cc925bdbac24df3f0b58",
+      "size": 23496558
     }
   ]
 }
