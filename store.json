@@ -148,6 +148,26 @@
         {
           "id": "movement-animations",
           "name": "MOVEMENT ANIMATIONS"
+        },
+        {
+          "id": "action-animations",
+          "name": "ACTION ANIMATIONS"
+        },
+        {
+          "id": "reaction-animations",
+          "name": "REACTION ANIMATIONS"
+        },
+        {
+          "id": "utill-animations",
+          "name": "UTILL ANIMATIONS"
+        },
+        {
+          "id": "state-animations",
+          "name": "STATE ANIMATIONS"
+        },
+        {
+          "id": "other-animations",
+          "name": "OTHER ANIMATIONS"
         }
       ]
     },
@@ -295,6 +315,66 @@
       "sha256": "4bb0d8fd5cf7119f4d1e3330980ef13eb793ba3142ee0fcbe7deedfc31349055",
       "size": 2049,
       "thumbv": 1
+    },
+    {
+      "id": "pmwxgg5901rg",
+      "name": "ACTION ANIMATIONS",
+      "type": "animations",
+      "group": "action-animations",
+      "desc": "All types of inbuild human character action animations are here.",
+      "version": 1,
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/ACTION_ANIMATIONS.zip",
+      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/ACTION_ANIMATIONS.png",
+      "sha256": "8f8d057cfab592882aefaa35b2f5af89178ff502c82964476e08394fc0fdbd61",
+      "size": 2049
+    },
+    {
+      "id": "pmwxghwyf11o",
+      "name": "REACTION ANIMATIONS",
+      "type": "animations",
+      "group": "reaction-animations",
+      "desc": "All types of inbuild human character reaction animations are here.",
+      "version": 1,
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/REACTION_ANIMATIONS.zip",
+      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/REACTION_ANIMATIONS.png",
+      "sha256": "4f304ee2fa6c568f477b2174588f0322636e1c601874e3f6bd86a108ed849cf7",
+      "size": 2049
+    },
+    {
+      "id": "pmwxgiqef1zn",
+      "name": "UTILL ANIMATIONS",
+      "type": "animations",
+      "group": "utill-animations",
+      "desc": "All types of inbuild human character utill animations are here.",
+      "version": 1,
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/UTILL_ANIMATIONS.zip",
+      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/UTILL_ANIMATIONS.png",
+      "sha256": "a8600804782fdac7d612ee51d0e37c0cf75a2fb111e92162c1249e60bc42eb7c",
+      "size": 2049
+    },
+    {
+      "id": "pmwxgkiz51uq",
+      "name": "STATE ANIMATIONS",
+      "type": "animations",
+      "group": "state-animations",
+      "desc": "All types of inbuild human character states like (dead alive sleep rising etc ) animations are here.",
+      "version": 1,
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/STATE_ANIMATIONS.zip",
+      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/STATE_ANIMATIONS.png",
+      "sha256": "4e4dc2621793cdd4d41b5029dd81126285ca98597cd54039c42d1c334fc3693a",
+      "size": 2049
+    },
+    {
+      "id": "pmwxgmkfn1gg",
+      "name": "OTHER ANIMATIONS",
+      "type": "animations",
+      "group": "other-animations",
+      "desc": "All types of inbuild human character random trending and other animations are here.",
+      "version": 1,
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/OTHER_ANIMATIONS.zip",
+      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/OTHER_ANIMATIONS.png",
+      "sha256": "43b3d6be40a8d91221ce1675281fdacae40cdc7920e9793186ada6648750f42b",
+      "size": 2049
     }
   ]
 }
