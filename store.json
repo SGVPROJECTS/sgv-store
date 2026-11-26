@@ -140,6 +140,14 @@
         {
           "id": "others",
           "name": "Others"
+        },
+        {
+          "id": "idle-animations",
+          "name": "IDLE ANIMATIONS"
+        },
+        {
+          "id": "movement-animations",
+          "name": "MOVEMENT ANIMATIONS"
         }
       ]
     },
@@ -261,6 +269,30 @@
       "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/2dGraphics/Bush_Pack_1.png",
       "sha256": "72c9f3e004ac69a8014a10d616ecb09f9ee1159b7d15cc925bdbac24df3f0b58",
       "size": 23496558
+    },
+    {
+      "id": "pmwx1q5vi1nn",
+      "name": "IDLE ANIMATIONS",
+      "type": "animations",
+      "group": "idle-animations",
+      "desc": "All types of inbuild human characters idle animations are here.",
+      "version": 1,
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/IDLE_ANIMATIONS.zip",
+      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/IDLE_ANIMATIONS.png",
+      "sha256": "a31f857beca3b07cf6835b6f002eb96eee75eb9c20b73390c9a5e2fe3b561a31",
+      "size": 87906
+    },
+    {
+      "id": "pmwx3qvth1kc",
+      "name": "MOVEMENT ANIMATIONS",
+      "type": "animations",
+      "group": "movement-animations",
+      "desc": "All types of inbuild human characters movements animations are here.",
+      "version": 1,
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/MOVEMENT_ANIMATIONS.zip",
+      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/MOVEMENT_ANIMATIONS.png",
+      "sha256": "4bb0d8fd5cf7119f4d1e3330980ef13eb793ba3142ee0fcbe7deedfc31349055",
+      "size": 2049
     }
   ]
 }
