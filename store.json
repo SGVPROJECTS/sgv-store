@@ -56,6 +56,10 @@
         {
           "id": "bush-pack-1",
           "name": "Bush Pack 1"
+        },
+        {
+          "id": "wheels",
+          "name": "Wheels"
         }
       ]
     },
@@ -385,6 +389,18 @@
       "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/OTHER_ANIMATIONS.png",
       "sha256": "43b3d6be40a8d91221ce1675281fdacae40cdc7920e9793186ada6648750f42b",
       "size": 2049
+    },
+    {
+      "id": "pmwz0p0821f5",
+      "name": "Wheels",
+      "type": "objects",
+      "group": "wheels",
+      "desc": "Different types of wheels here.",
+      "version": 1,
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/Wheels/Wheels.zip",
+      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/Wheels/Wheels.png",
+      "sha256": "7e96fc7a50a67ccf9e3ffa7c3a8458fc4321acde0ce79849f809c0f0a1592147",
+      "size": 37837325
     }
   ]
 }
