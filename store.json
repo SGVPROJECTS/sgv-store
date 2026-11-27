@@ -309,12 +309,12 @@
       "type": "animations",
       "group": "movement-animations",
       "desc": "All types of inbuild human characters movements animations are here.",
-      "version": 1,
-      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/MOVEMENT_ANIMATIONS.zip",
-      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/MOVEMENT_ANIMATIONS_t1795686755.png",
-      "sha256": "4bb0d8fd5cf7119f4d1e3330980ef13eb793ba3142ee0fcbe7deedfc31349055",
-      "size": 2049,
-      "thumbv": 1
+      "version": 2,
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/SGV_Movement_Animations_JSON.zip",
+      "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/SGV_Movement_Animations_JSON.png",
+      "sha256": "b7ca230001afb4214994b9650d411e701a8dba0ae5b2b56e246d3087ff1a5a88",
+      "size": 85340,
+      "thumbv": 2
     },
     {
       "id": "pmwxgg5901rg",
