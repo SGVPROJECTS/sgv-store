@@ -250,6 +250,16 @@
           "name": "Others"
         }
       ]
+    },
+    {
+      "id": "vehicles",
+      "name": "Vehicles",
+      "groups": [
+        {
+          "id": "cars",
+          "name": "Cars"
+        }
+      ]
     }
   ],
   "packs": [
@@ -342,12 +352,12 @@
     },
     {
       "id": "pmwxgiqef1zn",
-      "name": "UTILL ANIMATIONS",
-      "type": "animations",
-      "group": "utill-animations",
+      "name": "test",
+      "type": "vehicles",
+      "group": "cars",
       "desc": "All types of inbuild human character utill animations are here.",
       "version": 1,
-      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/UTILL_ANIMATIONS.zip",
+      "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/vehicles/UTILL_ANIMATIONS.zip",
       "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/UTILL_ANIMATIONS.png",
       "sha256": "a8600804782fdac7d612ee51d0e37c0cf75a2fb111e92162c1249e60bc42eb7c",
       "size": 2049
