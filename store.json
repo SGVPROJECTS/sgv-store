@@ -322,11 +322,11 @@
       "type": "animations",
       "group": "action-animations",
       "desc": "All types of inbuild human character action animations are here.",
-      "version": 1,
+      "version": 2,
       "url": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/ACTION_ANIMATIONS.zip",
       "thumb": "https://github.com/SGVPROJECTS/sgv-store/releases/download/HumanAnimations/ACTION_ANIMATIONS.png",
-      "sha256": "8f8d057cfab592882aefaa35b2f5af89178ff502c82964476e08394fc0fdbd61",
-      "size": 2049
+      "sha256": "ace7c78446c2ec613d27b32caa1ef3fbedbde733f9177c704934cdbf0f2b50ee",
+      "size": 57504
     },
     {
       "id": "pmwxghwyf11o",
